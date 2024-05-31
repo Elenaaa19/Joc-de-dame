@@ -1,0 +1,3 @@
+Red: 1
+White: 3
+Pieces Left: 7

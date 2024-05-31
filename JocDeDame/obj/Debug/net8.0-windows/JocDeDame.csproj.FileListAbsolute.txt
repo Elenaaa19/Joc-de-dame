@@ -1,0 +1,46 @@
+C:\Users\marcd\OneDrive\Desktop\JocDeDame\JocDeDame\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\marcd\OneDrive\Desktop\JocDeDame\JocDeDame\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\marcd\OneDrive\Desktop\JocDeDame\JocDeDame\obj\Debug\net8.0-windows\JocDeDame_MarkupCompile.cache
+C:\Users\marcd\OneDrive\Desktop\JocDeDame\JocDeDame\obj\Debug\net8.0-windows\JocDeDame_MarkupCompile.lref
+C:\Users\marcd\OneDrive\Desktop\JocDeDame\JocDeDame\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\marcd\OneDrive\Desktop\JocDeDame\JocDeDame\obj\Debug\net8.0-windows\JocDeDame.dll
+C:\Users\marcd\OneDrive\Desktop\JocDeDame\JocDeDame\obj\Debug\net8.0-windows\refint\JocDeDame.dll
+C:\Users\marcd\OneDrive\Desktop\JocDeDame\JocDeDame\obj\Debug\net8.0-windows\JocDeDame.pdb
+C:\Users\marcd\OneDrive\Desktop\JocDeDame\JocDeDame\bin\Debug\net8.0-windows\JocDeDame.exe
+C:\Users\marcd\OneDrive\Desktop\JocDeDame\JocDeDame\bin\Debug\net8.0-windows\JocDeDame.deps.json
+C:\Users\marcd\OneDrive\Desktop\JocDeDame\JocDeDame\bin\Debug\net8.0-windows\JocDeDame.runtimeconfig.json
+C:\Users\marcd\OneDrive\Desktop\JocDeDame\JocDeDame\bin\Debug\net8.0-windows\JocDeDame.dll
+C:\Users\marcd\OneDrive\Desktop\JocDeDame\JocDeDame\bin\Debug\net8.0-windows\JocDeDame.pdb
+C:\Users\marcd\OneDrive\Desktop\JocDeDame\JocDeDame\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\marcd\OneDrive\Desktop\JocDeDame\JocDeDame\obj\Debug\net8.0-windows\JocDeDame.g.resources
+C:\Users\marcd\OneDrive\Desktop\JocDeDame\JocDeDame\obj\Debug\net8.0-windows\JocDeDame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marcd\OneDrive\Desktop\JocDeDame\JocDeDame\obj\Debug\net8.0-windows\JocDeDame.AssemblyInfoInputs.cache
+C:\Users\marcd\OneDrive\Desktop\JocDeDame\JocDeDame\obj\Debug\net8.0-windows\JocDeDame.AssemblyInfo.cs
+C:\Users\marcd\OneDrive\Desktop\JocDeDame\JocDeDame\obj\Debug\net8.0-windows\JocDeDame.csproj.CoreCompileInputs.cache
+C:\Users\marcd\OneDrive\Desktop\JocDeDame\JocDeDame\obj\Debug\net8.0-windows\JocDeDame.genruntimeconfig.cache
+C:\Users\marcd\OneDrive\Desktop\JocDeDame\JocDeDame\obj\Debug\net8.0-windows\ref\JocDeDame.dll
+C:\Users\marcd\OneDrive\Desktop\JocDeDame\JocDeDame\obj\Debug\net8.0-windows\ViewModels\AboutWindow.baml
+C:\Users\marcd\OneDrive\Desktop\JocDeDame\JocDeDame\obj\Debug\net8.0-windows\ViewModels\AboutWindow.g.cs
+C:\FACULTATE AN 2\SEMESTRUL 2\MVP\JocDeDame\JocDeDame\obj\Debug\net8.0-windows\JocDeDame.dll
+C:\FACULTATE AN 2\SEMESTRUL 2\MVP\JocDeDame\JocDeDame\obj\Debug\net8.0-windows\refint\JocDeDame.dll
+C:\FACULTATE AN 2\SEMESTRUL 2\MVP\JocDeDame\JocDeDame\obj\Debug\net8.0-windows\JocDeDame.pdb
+C:\FACULTATE AN 2\SEMESTRUL 2\MVP\JocDeDame\JocDeDame\bin\Debug\net8.0-windows\JocDeDame.exe
+C:\FACULTATE AN 2\SEMESTRUL 2\MVP\JocDeDame\JocDeDame\bin\Debug\net8.0-windows\JocDeDame.deps.json
+C:\FACULTATE AN 2\SEMESTRUL 2\MVP\JocDeDame\JocDeDame\bin\Debug\net8.0-windows\JocDeDame.runtimeconfig.json
+C:\FACULTATE AN 2\SEMESTRUL 2\MVP\JocDeDame\JocDeDame\bin\Debug\net8.0-windows\JocDeDame.dll
+C:\FACULTATE AN 2\SEMESTRUL 2\MVP\JocDeDame\JocDeDame\bin\Debug\net8.0-windows\JocDeDame.pdb
+C:\FACULTATE AN 2\SEMESTRUL 2\MVP\JocDeDame\JocDeDame\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\FACULTATE AN 2\SEMESTRUL 2\MVP\JocDeDame\JocDeDame\obj\Debug\net8.0-windows\App.g.cs
+C:\FACULTATE AN 2\SEMESTRUL 2\MVP\JocDeDame\JocDeDame\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\FACULTATE AN 2\SEMESTRUL 2\MVP\JocDeDame\JocDeDame\obj\Debug\net8.0-windows\JocDeDame_MarkupCompile.cache
+C:\FACULTATE AN 2\SEMESTRUL 2\MVP\JocDeDame\JocDeDame\obj\Debug\net8.0-windows\JocDeDame_MarkupCompile.lref
+C:\FACULTATE AN 2\SEMESTRUL 2\MVP\JocDeDame\JocDeDame\obj\Debug\net8.0-windows\MainWindow.baml
+C:\FACULTATE AN 2\SEMESTRUL 2\MVP\JocDeDame\JocDeDame\obj\Debug\net8.0-windows\JocDeDame.g.resources
+C:\FACULTATE AN 2\SEMESTRUL 2\MVP\JocDeDame\JocDeDame\obj\Debug\net8.0-windows\JocDeDame.GeneratedMSBuildEditorConfig.editorconfig
+C:\FACULTATE AN 2\SEMESTRUL 2\MVP\JocDeDame\JocDeDame\obj\Debug\net8.0-windows\JocDeDame.AssemblyInfoInputs.cache
+C:\FACULTATE AN 2\SEMESTRUL 2\MVP\JocDeDame\JocDeDame\obj\Debug\net8.0-windows\JocDeDame.AssemblyInfo.cs
+C:\FACULTATE AN 2\SEMESTRUL 2\MVP\JocDeDame\JocDeDame\obj\Debug\net8.0-windows\JocDeDame.csproj.CoreCompileInputs.cache
+C:\FACULTATE AN 2\SEMESTRUL 2\MVP\JocDeDame\JocDeDame\obj\Debug\net8.0-windows\JocDeDame.genruntimeconfig.cache
+C:\FACULTATE AN 2\SEMESTRUL 2\MVP\JocDeDame\JocDeDame\obj\Debug\net8.0-windows\ref\JocDeDame.dll
+C:\FACULTATE AN 2\SEMESTRUL 2\MVP\JocDeDame\JocDeDame\obj\Debug\net8.0-windows\AboutWindow.baml
+C:\FACULTATE AN 2\SEMESTRUL 2\MVP\JocDeDame\JocDeDame\obj\Debug\net8.0-windows\AboutWindow.g.cs
