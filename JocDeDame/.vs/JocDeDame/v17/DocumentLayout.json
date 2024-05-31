@@ -1,0 +1,264 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\FACULTATE AN 2\\SEMESTRUL 2\\MVP\\JocDeDame\\JocDeDame\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E5E634F8-DD9A-49D8-8B61-609FE5B635C0}|JocDeDame.csproj|c:\\facultate an 2\\semestrul 2\\mvp\\jocdedame\\jocdedame\\models\\gamelogics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5E634F8-DD9A-49D8-8B61-609FE5B635C0}|JocDeDame.csproj|solutionrelative:models\\gamelogics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5E634F8-DD9A-49D8-8B61-609FE5B635C0}|JocDeDame.csproj|c:\\facultate an 2\\semestrul 2\\mvp\\jocdedame\\jocdedame\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E5E634F8-DD9A-49D8-8B61-609FE5B635C0}|JocDeDame.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5E634F8-DD9A-49D8-8B61-609FE5B635C0}|JocDeDame.csproj|c:\\facultate an 2\\semestrul 2\\mvp\\jocdedame\\jocdedame\\resources\\gamestate.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{E5E634F8-DD9A-49D8-8B61-609FE5B635C0}|JocDeDame.csproj|solutionrelative:resources\\gamestate.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5E634F8-DD9A-49D8-8B61-609FE5B635C0}|JocDeDame.csproj|c:\\facultate an 2\\semestrul 2\\mvp\\jocdedame\\jocdedame\\viewmodels\\gamevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5E634F8-DD9A-49D8-8B61-609FE5B635C0}|JocDeDame.csproj|solutionrelative:viewmodels\\gamevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5E634F8-DD9A-49D8-8B61-609FE5B635C0}|JocDeDame.csproj|c:\\facultate an 2\\semestrul 2\\mvp\\jocdedame\\jocdedame\\commands\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5E634F8-DD9A-49D8-8B61-609FE5B635C0}|JocDeDame.csproj|solutionrelative:commands\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5E634F8-DD9A-49D8-8B61-609FE5B635C0}|JocDeDame.csproj|c:\\facultate an 2\\semestrul 2\\mvp\\jocdedame\\jocdedame\\helpers\\scorehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5E634F8-DD9A-49D8-8B61-609FE5B635C0}|JocDeDame.csproj|solutionrelative:helpers\\scorehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5E634F8-DD9A-49D8-8B61-609FE5B635C0}|JocDeDame.csproj|c:\\facultate an 2\\semestrul 2\\mvp\\jocdedame\\jocdedame\\resources\\game_statistics.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{E5E634F8-DD9A-49D8-8B61-609FE5B635C0}|JocDeDame.csproj|solutionrelative:resources\\game_statistics.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5E634F8-DD9A-49D8-8B61-609FE5B635C0}|JocDeDame.csproj|c:\\facultate an 2\\semestrul 2\\mvp\\jocdedame\\jocdedame\\helpers\\gamestatehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5E634F8-DD9A-49D8-8B61-609FE5B635C0}|JocDeDame.csproj|solutionrelative:helpers\\gamestatehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5E634F8-DD9A-49D8-8B61-609FE5B635C0}|JocDeDame.csproj|c:\\facultate an 2\\semestrul 2\\mvp\\jocdedame\\jocdedame\\resources\\scores.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{E5E634F8-DD9A-49D8-8B61-609FE5B635C0}|JocDeDame.csproj|solutionrelative:resources\\scores.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5E634F8-DD9A-49D8-8B61-609FE5B635C0}|JocDeDame.csproj|c:\\facultate an 2\\semestrul 2\\mvp\\jocdedame\\jocdedame\\models\\gamepiece.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5E634F8-DD9A-49D8-8B61-609FE5B635C0}|JocDeDame.csproj|solutionrelative:models\\gamepiece.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5E634F8-DD9A-49D8-8B61-609FE5B635C0}|JocDeDame.csproj|c:\\facultate an 2\\semestrul 2\\mvp\\jocdedame\\jocdedame\\models\\gamesquare.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5E634F8-DD9A-49D8-8B61-609FE5B635C0}|JocDeDame.csproj|solutionrelative:models\\gamesquare.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5E634F8-DD9A-49D8-8B61-609FE5B635C0}|JocDeDame.csproj|c:\\facultate an 2\\semestrul 2\\mvp\\jocdedame\\jocdedame\\models\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5E634F8-DD9A-49D8-8B61-609FE5B635C0}|JocDeDame.csproj|solutionrelative:models\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5E634F8-DD9A-49D8-8B61-609FE5B635C0}|JocDeDame.csproj|c:\\facultate an 2\\semestrul 2\\mvp\\jocdedame\\jocdedame\\resources\\aboutfile.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{E5E634F8-DD9A-49D8-8B61-609FE5B635C0}|JocDeDame.csproj|solutionrelative:resources\\aboutfile.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5E634F8-DD9A-49D8-8B61-609FE5B635C0}|JocDeDame.csproj|c:\\facultate an 2\\semestrul 2\\mvp\\jocdedame\\jocdedame\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E5E634F8-DD9A-49D8-8B61-609FE5B635C0}|JocDeDame.csproj|solutionrelative:app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\FACULTATE AN 2\\SEMESTRUL 2\\MVP\\JocDeDame\\JocDeDame\\App.xaml",
+              "RelativeDocumentMoniker": "App.xaml",
+              "ToolTip": "C:\\FACULTATE AN 2\\SEMESTRUL 2\\MVP\\JocDeDame\\JocDeDame\\App.xaml",
+              "RelativeToolTip": "App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-17T20:14:45.946Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\FACULTATE AN 2\\SEMESTRUL 2\\MVP\\JocDeDame\\JocDeDame\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "C:\\FACULTATE AN 2\\SEMESTRUL 2\\MVP\\JocDeDame\\JocDeDame\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-17T12:37:08.224Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GameLogics.cs",
+              "DocumentMoniker": "C:\\FACULTATE AN 2\\SEMESTRUL 2\\MVP\\JocDeDame\\JocDeDame\\Models\\GameLogics.cs",
+              "RelativeDocumentMoniker": "Models\\GameLogics.cs",
+              "ToolTip": "C:\\FACULTATE AN 2\\SEMESTRUL 2\\MVP\\JocDeDame\\JocDeDame\\Models\\GameLogics.cs",
+              "RelativeToolTip": "Models\\GameLogics.cs",
+              "ViewState": "AQIAAGIAAAAAAAAAAAAAACcAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T12:37:08.129Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GamePiece.cs",
+              "DocumentMoniker": "C:\\FACULTATE AN 2\\SEMESTRUL 2\\MVP\\JocDeDame\\JocDeDame\\Models\\GamePiece.cs",
+              "RelativeDocumentMoniker": "Models\\GamePiece.cs",
+              "ToolTip": "C:\\FACULTATE AN 2\\SEMESTRUL 2\\MVP\\JocDeDame\\JocDeDame\\Models\\GamePiece.cs",
+              "RelativeToolTip": "Models\\GamePiece.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAqwDwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T12:37:08.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GameVM.cs",
+              "DocumentMoniker": "C:\\FACULTATE AN 2\\SEMESTRUL 2\\MVP\\JocDeDame\\JocDeDame\\ViewModels\\GameVM.cs",
+              "RelativeDocumentMoniker": "ViewModels\\GameVM.cs",
+              "ToolTip": "C:\\FACULTATE AN 2\\SEMESTRUL 2\\MVP\\JocDeDame\\JocDeDame\\ViewModels\\GameVM.cs",
+              "RelativeToolTip": "ViewModels\\GameVM.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAkwPEAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T12:37:08.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "GameSquare.cs",
+              "DocumentMoniker": "C:\\FACULTATE AN 2\\SEMESTRUL 2\\MVP\\JocDeDame\\JocDeDame\\Models\\GameSquare.cs",
+              "RelativeDocumentMoniker": "Models\\GameSquare.cs",
+              "ToolTip": "C:\\FACULTATE AN 2\\SEMESTRUL 2\\MVP\\JocDeDame\\JocDeDame\\Models\\GameSquare.cs",
+              "RelativeToolTip": "Models\\GameSquare.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T12:37:08.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "scores.txt",
+              "DocumentMoniker": "C:\\FACULTATE AN 2\\SEMESTRUL 2\\MVP\\JocDeDame\\JocDeDame\\Resources\\scores.txt",
+              "RelativeDocumentMoniker": "Resources\\scores.txt",
+              "ToolTip": "C:\\FACULTATE AN 2\\SEMESTRUL 2\\MVP\\JocDeDame\\JocDeDame\\Resources\\scores.txt",
+              "RelativeToolTip": "Resources\\scores.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-04-17T12:37:08.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\FACULTATE AN 2\\SEMESTRUL 2\\MVP\\JocDeDame\\JocDeDame\\Models\\Player.cs",
+              "RelativeDocumentMoniker": "Models\\Player.cs",
+              "ToolTip": "C:\\FACULTATE AN 2\\SEMESTRUL 2\\MVP\\JocDeDame\\JocDeDame\\Models\\Player.cs",
+              "RelativeToolTip": "Models\\Player.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACsAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T12:37:08.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GameStateHelper.cs",
+              "DocumentMoniker": "C:\\FACULTATE AN 2\\SEMESTRUL 2\\MVP\\JocDeDame\\JocDeDame\\Helpers\\GameStateHelper.cs",
+              "RelativeDocumentMoniker": "Helpers\\GameStateHelper.cs",
+              "ToolTip": "C:\\FACULTATE AN 2\\SEMESTRUL 2\\MVP\\JocDeDame\\JocDeDame\\Helpers\\GameStateHelper.cs",
+              "RelativeToolTip": "Helpers\\GameStateHelper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAABlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T12:37:08.202Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AboutFile.txt",
+              "DocumentMoniker": "C:\\FACULTATE AN 2\\SEMESTRUL 2\\MVP\\JocDeDame\\JocDeDame\\Resources\\AboutFile.txt",
+              "RelativeDocumentMoniker": "Resources\\AboutFile.txt",
+              "ToolTip": "C:\\FACULTATE AN 2\\SEMESTRUL 2\\MVP\\JocDeDame\\JocDeDame\\Resources\\AboutFile.txt",
+              "RelativeToolTip": "Resources\\AboutFile.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-04-17T12:37:08.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GameState.txt",
+              "DocumentMoniker": "C:\\FACULTATE AN 2\\SEMESTRUL 2\\MVP\\JocDeDame\\JocDeDame\\Resources\\GameState.txt",
+              "RelativeDocumentMoniker": "Resources\\GameState.txt",
+              "ToolTip": "C:\\FACULTATE AN 2\\SEMESTRUL 2\\MVP\\JocDeDame\\JocDeDame\\Resources\\GameState.txt",
+              "RelativeToolTip": "Resources\\GameState.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-04-17T12:37:08.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "game_statistics.txt",
+              "DocumentMoniker": "C:\\FACULTATE AN 2\\SEMESTRUL 2\\MVP\\JocDeDame\\JocDeDame\\Resources\\game_statistics.txt",
+              "RelativeDocumentMoniker": "Resources\\game_statistics.txt",
+              "ToolTip": "C:\\FACULTATE AN 2\\SEMESTRUL 2\\MVP\\JocDeDame\\JocDeDame\\Resources\\game_statistics.txt",
+              "RelativeToolTip": "Resources\\game_statistics.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-04-17T12:37:08.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RelayCommand.cs",
+              "DocumentMoniker": "C:\\FACULTATE AN 2\\SEMESTRUL 2\\MVP\\JocDeDame\\JocDeDame\\Commands\\RelayCommand.cs",
+              "RelativeDocumentMoniker": "Commands\\RelayCommand.cs",
+              "ToolTip": "C:\\FACULTATE AN 2\\SEMESTRUL 2\\MVP\\JocDeDame\\JocDeDame\\Commands\\RelayCommand.cs",
+              "RelativeToolTip": "Commands\\RelayCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T12:37:08.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ScoreHelper.cs",
+              "DocumentMoniker": "C:\\FACULTATE AN 2\\SEMESTRUL 2\\MVP\\JocDeDame\\JocDeDame\\Helpers\\ScoreHelper.cs",
+              "RelativeDocumentMoniker": "Helpers\\ScoreHelper.cs",
+              "ToolTip": "C:\\FACULTATE AN 2\\SEMESTRUL 2\\MVP\\JocDeDame\\JocDeDame\\Helpers\\ScoreHelper.cs",
+              "RelativeToolTip": "Helpers\\ScoreHelper.cs",
+              "ViewState": "AQIAAGAAAAAAAAAAAAAQwHYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T12:37:08.241Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

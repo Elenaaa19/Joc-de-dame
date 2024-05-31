@@ -1,0 +1,4 @@
+﻿Nume: Susca Elena
+Grupa: 10LF323
+Email: elena.susca@student.unitbv.ro
+Descriere: Jocul este un joc clasic de dame. Scopul acestui joc este de a captura toate piesele adversarului sau de a-l bloca, astfel încât să nu mai poată efectua mutări legale. Jocul de dame este cunoscut pentru beneficiile sale în dezvoltarea gândirii strategice și tactice.
